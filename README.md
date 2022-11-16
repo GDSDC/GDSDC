@@ -1,16 +1,52 @@
-### Hi there 👋
+### Hi there! I'm Gabriel, welcome to my GitHub. 🌱
 
-<!--
-**GDSDC/GDSDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/gabriel-dacosta/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="mailto:gabriel.dossantos.dacosta@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### About Me 🚀
+💻 I’m a **Junior Back-end developer** with the OpenClassRooms diploma _Application Developer – Python_, and an electronics engineering degree. </br> </br>
+🚀 Passionate, curious and self-taught, I am interested in various fields related to programming. </br> </br>
+🔎 I am looking for new opportunities and challenges to deepen and develop my skills in this field, ideally as a back-end web developer on a language like Python.</br> </br>
+💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
+   
+ <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
+    
+<br/>
+<hr />
+
+<div align="center">
+  <a href="https://github.com/GDSDC">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GDSDC&show_icons=true&theme=gradient&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDSDC&layout=compact&langs_count=7&theme=gradient"/>
+</div>
+
+## ⚡ Technologies I love and use
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="pytest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Flask" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="circleci" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg">
+  <img align="center" alt="heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+  <img align="center" alt="pycharm" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+  <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="postman" height="30" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
