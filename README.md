@@ -62,7 +62,10 @@
   </a>
   <a href="https://www.docker.com/">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
- </a>
+  </a>
+  <a href="https://cloud.google.com/?hl=fr">
+  <img align="center" alt="Google Cloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  </a>
   <a href="https://circleci.com/">
   <img align="center" alt="circleci" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg">
   </a>
