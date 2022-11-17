@@ -12,7 +12,7 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **Junior Back-end developer** with the OpenClassRooms diploma _Application Developer – Python_, and an electronics engineering degree. </br> </br>
+💻 I’m a **Back-end developer** with the OpenClassRooms diploma _Application Developer – Python_, and an electronics engineering degree. </br> </br>
 🔎 I am looking for new opportunities and challenges to deepen and develop my skills in this field, ideally as a back-end web developer on a language like Python.</br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
